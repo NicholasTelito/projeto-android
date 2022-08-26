@@ -168,7 +168,7 @@ div > img {
         border-radius: 8px;
         box-shadow: rgba(0, 0, 0, 0.374);
     }
-    article > ul {    list-style-type: '\2714\00A0\00A0';
+    article > ul {list-style-type:'\2714\00A0';
         list-style-position: inside;
         columns: 2;
     line-height: 1.2em;
