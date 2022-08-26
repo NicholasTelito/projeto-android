@@ -173,6 +173,7 @@ div > img {
         columns: 2;
     line-height: 1.2em;
     text-indent: 30px;
+    font-size: 0.95em;
 }
     article > p{
         line-height: 2.5em;
